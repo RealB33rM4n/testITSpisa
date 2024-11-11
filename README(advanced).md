@@ -2,6 +2,7 @@
 
 # Capitolo Uno descrizione progetto
 
+
 # Python-project-Scripts.
 
 [![Join us on Slack](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://join.slack.com/t/ngc-goz8665/shared_invite/zt-r01kumfq-dQUT3c95BxEP_fnk4yJFfQ)
