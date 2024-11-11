@@ -25,8 +25,7 @@ namespace GRAL.Networking {
         // il punteggio delle gare precedenti
         public int Score;
 
-        // Commento per editare il file. DI nessuna utilità
-        
+     
 
         public Color color;
 
