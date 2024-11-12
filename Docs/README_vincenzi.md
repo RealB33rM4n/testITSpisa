@@ -79,3 +79,12 @@ Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 2. sas
 
 3. sis
+
+
+## Scelte a caso
+
+[ ] scrutamento ciola
+
+[ ] lavaggio del perone
+
+[ ] ballz
