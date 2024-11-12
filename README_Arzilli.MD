@@ -8,4 +8,4 @@ Formattare il PC
 [Google Maps](https://www.google.com/maps?authuser=0)
 
 ## Passo n°3
-[Link Text](#Passo n°1)
+[Link Text](#Passo-n°1)
