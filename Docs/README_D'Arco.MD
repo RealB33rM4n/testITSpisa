@@ -38,3 +38,5 @@ Collegamento al primo titolo: [Link Text](#A-first-level-heading).
 
 ## Immagine
 ![Immagine](https://media.licdn.com/dms/image/v2/D4E12AQGUxTOC3los3A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1694596637191?e=2147483647&v=beta&t=aLtaRFHobkh9Gb5Yq-f2nK1gDG6iD1nBTY8oQV9qb5g)
+
+![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
