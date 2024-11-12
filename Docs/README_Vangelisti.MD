@@ -52,7 +52,8 @@
 
 
 
-
+- [x] Pranzato
+- [ ] Le tende sono arrivate
 
 
 
