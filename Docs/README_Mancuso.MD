@@ -1,6 +1,6 @@
 -------------------------------------------------------------------------
 
-> [!WARNING}
+> [!WARNING]
 > Homer ovunque, Homer ovunque, attenzione, Homer ovunque.
 > E un easter egg
 
