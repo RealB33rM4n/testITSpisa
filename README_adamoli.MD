@@ -11,6 +11,9 @@ A metà documento [click qui](#tabella-dei-task)
 
 A fine documento [click qui](#Fine-documento)
 
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
 
 Apri README Benedetti [click qui](/Docs/README_Benedetti.MD)
 
