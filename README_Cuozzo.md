@@ -9,5 +9,5 @@
 
   questo è il mio sito fake:[cuozzo](http://www.cuozzo.it)
 
-  ![Uploading GeorgePickensGeorgeGIF.gif…]()
+ 👌👌👌👌
 
