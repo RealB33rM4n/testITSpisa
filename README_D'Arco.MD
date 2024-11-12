@@ -16,18 +16,18 @@ git commit
 ```
 Link di un sito [TouTube](https://www.youtube.com/)
 
-#Tipi di avvisi
+## Tipi di avvisi
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> Informazioni utili che gli utenti dovrebbero conoscere, anche quando scorrono i contenuti.
 
 > [!TIP]
-> Helpful advice for doing things better or more easily.
+> Consigli utili per fare le cose meglio o più facilmente.
 
 > [!IMPORTANT]
-> Key information users need to know to achieve their goal.
+> Informazioni chiave che gli utenti devono conoscere per raggiungere il loro obiettivo.
 
 > [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+> Informazioni urgenti che richiedono l'attenzione immediata dell'utente per evitare problemi.
 
 > [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> Consiglia i rischi o gli esiti negativi di determinate azioni.
