@@ -1,4 +1,4 @@
 # A first-level heading
 > ciao
 * ok
-'rgb(#ffff)ok'
+link [go](https://google.com)
