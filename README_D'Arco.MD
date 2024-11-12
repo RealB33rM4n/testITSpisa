@@ -6,7 +6,7 @@
 _testo corsivo_
 >testo citato
 
-Per evidenziare un comando esempio: `git status`
+- Per evidenziare un comando esempio: `git status`
 
 evidenziare blocco di comandi o istruzioni 
 ```
