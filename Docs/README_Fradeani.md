@@ -27,11 +27,20 @@
 
 
 
+> BELLAAAAAAAAAAHHHH
+
+
+
 
 
 # Dicembre😎
 ## sto facendo una sfida che si chiama dicembre, in pratica devi sopravvivere tutto dicembre
 > DAJE
+
+
+
+
+> BELLAAAAAAAAAAHHHH
 
 
 
@@ -43,6 +52,9 @@
 
 
 
+
+
+> BELLAAAAAAAAAAHHHH
 
 
 
@@ -58,6 +70,16 @@
 * perchè precedono i mesi che mi riguardano
 
 * mesi in cui non dovrebbe nevicare ma nevica lo stesso: TUTTI
+
+
+
+
+
+> BELLAAAAAAAAAAHHHH
+
+
+
+
 
 * **DOCUMENTO A SCOPO ILLUSTRATIVO**
 
