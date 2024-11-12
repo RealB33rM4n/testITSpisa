@@ -1,12 +1,24 @@
+# Readme 
+File di istruzioni per il programma
+## Passo n 1
+Formattare il PC
+> _Scherzavo eheh_
+
+## Passo n 2
+[Google Maps](https://www.google.com/maps?authuser=0)
+
+## Passo n 3
+[Link Text](#Passo-n-1)
+
+## Passo n 4
 #Loro Dallinga, noi Castro!!
 ![loro Dallinga, noi Castro](https://www.1000cuorirossoblu.it/wp-content/uploads/2024/09/CASTRO-ESULTANZA-1.jpg)
 
-![aa](https://media.istockphoto.com/id/538665020/it/foto/internet-meme-why-you-no-illustrazione-3d-rage-face.jpg?s=1024x1024&w=is&k=20&c=AB9maT_rZsMP0WGgDwiUBCzpRxI6TVRBv1MMRk9cxso=)
+## Passo n 5
 
-prova
-> quote
-> https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- [x] Iniziare un file README
+- [ ] Finire un file README
+- [ ] [#1](https://github.com/RealB33rM4n/testITSpisa/issues/2)
+- [ ] [#2](https://github.com/RealB33rM4n/testITSpisa/issues/3)
 
- The background color is `rgb(0, 143, 57)` for light mode and `rgb(0, 143, 57)` for dark mode.
-
-non va il cambio colore dello sfondo
+## Passo n 6
