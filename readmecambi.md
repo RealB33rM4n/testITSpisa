@@ -1,4 +1,5 @@
 ciao a tutti
 #INCLUDEIOSTREAM
-#INCLUDE INTMAIN
+#INCLUDE INTMAIn
 -FOR:(IF i<n;i++)
+>ciao
