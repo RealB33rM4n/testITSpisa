@@ -35,3 +35,6 @@ git commit
 
 ## Link che portano a paragrafiche del nostro file Readme
 Collegamento al primo titolo: [Link Text](#A-first-level-heading).
+
+##Immagine
+![Immagine](https://foundations.projectpythia.org/_images/GitHub-logo.png)
