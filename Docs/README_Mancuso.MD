@@ -27,7 +27,7 @@ Devo per forza scriverci qualcosa per fare spazio
 ##Giovedì
 
 Devo per forza scriverci qualcosa per fare spazio
-
+![CORGI](https://img.pixers.pics/pho_wat(s3:700/FO/16/60/41/32/0/700_FO166041320_ec80a985bb9120f90ec6bb5f0393e31a,700,472,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,422,jpg)/coperte-di-peluche-cucciolo-welsh-corgi-pembroke.jpg)
 
 ##Venerdì
 
