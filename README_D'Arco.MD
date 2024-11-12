@@ -34,4 +34,4 @@ git commit
 > Consiglia i rischi o gli esiti negativi di determinate azioni.
 
 ## Link che portano a paragrafiche del nostro file Readme
-Collegamento al primo titolo: [Link Text](README_D'Arco.MD/A-first-level-heading).
+Collegamento al primo titolo: [Link Text](#A-first-level-heading).
