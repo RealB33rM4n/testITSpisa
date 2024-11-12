@@ -12,3 +12,7 @@ Apri README Bendetti: [Saudde](/Docs/README_Benedetti.MD)
 
 # Il grande salvatore Castro
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://tmssl.akamaized.net/images/foto/galerie/santiago-castro-bologna-23-24-1717597815-138563.jpg)
+
+
+
+![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
