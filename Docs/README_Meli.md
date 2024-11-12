@@ -11,3 +11,9 @@ Prova [Prova link](https://youtu.be/uxpDa-c-4Mc?feature=shared)
 
 
 ![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
+
+[x] ho mangiato
+
+[x] mi hanno modificato il file
+
+[] boh
