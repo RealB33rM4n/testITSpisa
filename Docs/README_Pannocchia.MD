@@ -26,4 +26,4 @@ Apri README Bendetti: [Saudde](/Docs/README_Benedetti.MD)
 
 - [x] Vincere una partitra
 - [ ] Vincere il campionato
-- [ ] Perdere 4 a 0
+- [X] Perdere 1 a 0
