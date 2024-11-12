@@ -64,5 +64,5 @@ git commit
 [Link a tasks](#tasks)
 
 
-[Link a support](#support)
+[Link a footnote](#footnote)
 
