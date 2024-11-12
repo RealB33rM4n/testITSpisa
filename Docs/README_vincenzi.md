@@ -88,8 +88,12 @@ Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 
 ## Scelte a caso
 
-- [ ] \(Optional) scrutamento omero
+- [ ]  scrutamento omero
 
 - [x] lavaggio del perone
 
-- [ ] ballz
+- [ ] \(Opzionale) ballz
+
+
+
+@rstarttt/testITSpisa taglia la bianca
