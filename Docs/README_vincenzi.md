@@ -55,6 +55,9 @@ Link alla cosa utile: [Bellissimo](#sicuramente-sto-testo-sarà-utile).
 
 Link al testaccio1: [titoletto1](#non-è-un-solo-titoletto).
 
+
+![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
+
 Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 
 ## hog rider
