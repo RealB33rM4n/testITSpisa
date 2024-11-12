@@ -37,4 +37,4 @@ git commit
 Collegamento al primo titolo: [Link Text](#A-first-level-heading).
 
 ## Immagine
-![Immagine](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fgithub-copilot-pros-cons-mike-smith&psig=AOvVaw2tkHTORHl6iUxQSsB6s-nw&ust=1731508303543000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjO_bKB14kDFQAAAAAdAAAAABAS)
+![Immagine](https://media.licdn.com/dms/image/v2/D4E12AQGUxTOC3los3A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1694596637191?e=2147483647&v=beta&t=aLtaRFHobkh9Gb5Yq-f2nK1gDG6iD1nBTY8oQV9qb5g)
