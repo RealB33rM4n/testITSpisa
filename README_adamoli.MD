@@ -2,7 +2,7 @@
 ### 3 level 
 ###### 6 level heading
 
-A metà documento [click qui](#metà-ducmento)
+A metà documento [click qui](#tabella-dei-task)
 
 A fine documento [click qui](#Fine-documento)
 
@@ -14,6 +14,12 @@ Apri README Benedetti [click qui](/Docs/README_Benedetti.MD)
 Il seguente [Google](https://www.google.com)
 
 Vediamo se hai ragione
+
+# tabella dei task
+
+- [x] caffè del mattino
+- [ ] bombolone alla crema
+- [ ] merda merda 
 
 
 
