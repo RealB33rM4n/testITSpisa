@@ -2,19 +2,19 @@
 
 ###### 6-level heading
 
-**text grassetto**
-_testo corsivo_
->testo citato
+- **text grassetto**
+- _testo corsivo_
+- >testo citato
 
 - Per evidenziare un comando esempio: `git status`
 
-evidenziare blocco di comandi o istruzioni 
+- evidenziare blocco di comandi o istruzioni 
 ```
 git status
 git add
 git commit
 ```
-Link di un sito [TouTube](https://www.youtube.com/)
+- Link di un sito [TouTube](https://www.youtube.com/)
 
 ## Tipi di avvisi
 > [!NOTE]
