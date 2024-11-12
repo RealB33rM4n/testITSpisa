@@ -20,6 +20,7 @@ Formattare il PC
 - [x] Iniziare un file README
 - [ ] Finire un file README
 - [ ] [#1](https://github.com/RealB33rM4n/testITSpisa/issues/2)
+- [ ] [#2](https://github.com/RealB33rM4n/testITSpisa/issues/3)
 
 ## Passo n 6
 
