@@ -13,7 +13,7 @@
 ![cane](https://img.freepik.com/foto-premium/cane-vestito-di-mantello-nero-con-cappuccio-e-falce_12395-1759.jpg)
 
 # Classifica Serie A 24/25
-1. Napoli [x]
+1. Napoli
 2. Atalanta
 3. Fiorentina
 4. Inter
@@ -33,5 +33,7 @@
 18. Lecce
 19. Monza
 20. Venezia
+
+- [X] Andare a disoneste
   
  👌👌👌👌
