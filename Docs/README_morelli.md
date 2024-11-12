@@ -16,6 +16,7 @@ clicca [qui](https://www.youtube.com)
 - [x] verificare la densita molecolare del petrolio
 - [x] picchiare il primo ministro iraniano
 - [x] noleggiare un fenicottero rosa
+- [x] mangiare una delle 5 banane comprate 
 
 
 
