@@ -40,7 +40,7 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 ## Code: 
 Python: ` print(chr(sum(range(ord(min(str(not())))))))` -> ඞ
 
+## 
 
-
-### 
+###  
 [Torna ad inizio pagina](#inizio_pagina)
