@@ -11,5 +11,5 @@ A metà documento: [clicca qui](#metà-documento).
 
 # metà-documento
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.calciocasteddu.it/wp-content/uploads/2020/08/Zito-Luvumbo.jpg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/33/337fe55a65598f5fcaf28688e170414b-58324-oooz0000.jpeg)
 # fine-documento
