@@ -28,7 +28,7 @@ git commit
 
 - [x] Prendere il treno
 - [x] Prendere autobus
-- [ ] #1
+- [ ] https://github.com/octo-org/octo-repo/issues/1
 - [ ] Tornare a casa
 
 
