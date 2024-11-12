@@ -5,18 +5,13 @@ Formattare il PC
 > _Scherzavo eheh_
 
 
-> [!WARNING]
-> Ultime notizie: Tutti i possessori di tastiere colorate sono stati invasi da cuccioli corgi
 
-
-![1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8c-05T1-cMrMih2caG3JSeQK9mhSFs-n7qWLScIFtOuvYAE3FUZN-c0Hd1UzlKchN3gkU6CNLYC_yEmEikHOrtx8TKQ82Nx-Q2_DCDpn5cc0oJLq0rLrgdRNPHFvdjvTMvUkP1UxShXc/s1600/duo.jpg)
 ## Passo n 2
 [Google Maps](https://www.google.com/maps?authuser=0)
 
 ## Passo n 3
 [Link Text](#Passo-n-1)
 
-![2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8c-05T1-cMrMih2caG3JSeQK9mhSFs-n7qWLScIFtOuvYAE3FUZN-c0Hd1UzlKchN3gkU6CNLYC_yEmEikHOrtx8TKQ82Nx-Q2_DCDpn5cc0oJLq0rLrgdRNPHFvdjvTMvUkP1UxShXc/s1600/duo.jpg)
 ## Passo n 4
 
 #### Captain Tsubasa
@@ -29,7 +24,6 @@ Formattare il PC
 - [ ] [#1](https://github.com/RealB33rM4n/testITSpisa/issues/2)
 - [ ] [#2](https://github.com/RealB33rM4n/testITSpisa/issues/3)
 
-![3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8c-05T1-cMrMih2caG3JSeQK9mhSFs-n7qWLScIFtOuvYAE3FUZN-c0Hd1UzlKchN3gkU6CNLYC_yEmEikHOrtx8TKQ82Nx-Q2_DCDpn5cc0oJLq0rLrgdRNPHFvdjvTMvUkP1UxShXc/s1600/duo.jpg)
 ## Passo n 6
 
 > [!NOTE]
@@ -47,7 +41,6 @@ Formattare il PC
 > [!CAUTION]
 > pericolo.
 
-![4](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8c-05T1-cMrMih2caG3JSeQK9mhSFs-n7qWLScIFtOuvYAE3FUZN-c0Hd1UzlKchN3gkU6CNLYC_yEmEikHOrtx8TKQ82Nx-Q2_DCDpn5cc0oJLq0rLrgdRNPHFvdjvTMvUkP1UxShXc/s1600/duo.jpg)
 ## Passo n 7
 
 <!-- This content will not appear in the rendered Markdown -->
