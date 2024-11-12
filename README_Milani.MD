@@ -11,8 +11,8 @@
 
 ###### 6-level heading
 
-** Testo Grassetto **
-* testo corsivo *
+**Testo Grassetto**
+*testo corsivo*
 
 comandi Git:
 ```
