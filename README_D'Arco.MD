@@ -14,7 +14,7 @@ git status
 git add
 git commit
 ```
-- Link di un sito [TouTube](https://www.youtube.com/)
+- Link di un sito [TouTube](https://www.youtube.com/){:target="_blank"}
 
 ## Tipi di avvisi
 > [!NOTE]
