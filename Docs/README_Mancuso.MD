@@ -1,12 +1,12 @@
 -------------------------------------------------------------------------
 
-> [!CAUTION]
-> Qualcuno sta cercando di hackerare il tuo account!!!
+> [!TIP]
+> Riprova sarai più fortunata.
 
 -------------------------------------------------------------------------
 
-> [!TIP]
-> Riprova sarai più fortunata.
+> [!CAUTION]
+> Qualcuno sta cercando di hackerare il tuo account!!!
 
 --------------------------------------------------------------------------
 
