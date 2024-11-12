@@ -8,4 +8,6 @@ blocco separato
 
 > testo quotato
 
-`rgb(0,255,0)ciao ` ciao
+il colore è `#ffff00` fallimento
+
+[hyperlink](https://it.wikipedia.org/wiki/Collegamento_ipertestuale)
