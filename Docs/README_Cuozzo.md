@@ -1,4 +1,7 @@
 # CUOZZO
+
+![antonio cuozzo](https://th.bing.com/th/id/OIP.3h2nYv8F85vYgzz2FdL1_wAAAA?rs=1&pid=ImgDetMain)
+
 ~~error 404~~
 ## scioglilingua
 ***se l'arcivescovo di Costantinopoli si disarcivescovizzasse ti disarcivescovizzeresti anche tu come si è disarcivescovizzato l'arcivescovo di Costantinopoli***
