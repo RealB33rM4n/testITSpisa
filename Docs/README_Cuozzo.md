@@ -34,6 +34,8 @@
 19. Monza
 20. Venezia
 
-- [X] Andare a disoneste
+- [X] Andare a fare la spesa
+- [ ] Dormire
+- [X] Bere 
   
  👌👌👌👌
