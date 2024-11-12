@@ -64,11 +64,18 @@ Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 
 ![uddio](https://preview.redd.it/ogzadbcu0okc1.jpeg?auto=webp&s=463a211ab992c5222d4a372bbbe06372c3f58f76)
 
-## Una bellissima lista
+## Una bellissima lista non numerata
 
-+sus
++ sus
 
-+sas
++ sas
 
-+sis
++ sis
 
+## Una bellissima lista numerata
+
+1. sus
+
+2. sas
+
+3. sis
