@@ -1,3 +1,4 @@
+# ⚠️ TUTTO UN MEME ⚠️
 # Novembre😊
 ## sto facendo una sfida che si chiama novembre, in pratica devi sopravvivere tutto novembre
 > DAJE
@@ -25,8 +26,3 @@
 
 
 
-
-
-
-
-![a caso](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
