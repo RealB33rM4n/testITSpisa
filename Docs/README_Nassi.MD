@@ -9,7 +9,7 @@
 - [x] Pasta al ragù
 
 ### Blyatman 
-![BLYATMAN](https://media1.tenor.com/m/i6Xc5rg93n8AAAAd/blyat-mask.gif)
+![BLYATMAN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Faltugkonuk%2F&psig=AOvVaw225EIrAyX44uU-tKyrrM-_&ust=1731510093540000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKishJyI14kDFQAAAAAdAAAAABAv)
 
 
 ### .
