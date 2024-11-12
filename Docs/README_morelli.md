@@ -1,5 +1,7 @@
 # begin doc
 
+eccoci: [spaideren](#end-doc)
+
 #### da oggi proviamo cose
 
 > pushare con moderazione
@@ -31,6 +33,22 @@ clicca [qui](https://www.youtube.com)
 
 
 
+#### wait
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### aspetta ancora 
 
 
 
@@ -63,6 +81,27 @@ clicca [qui](https://www.youtube.com)
 
 
 
+#### solo un altro po
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #### manca pochissimo
 
 
 
@@ -88,6 +127,8 @@ clicca [qui](https://www.youtube.com)
 
 
 
+
+ 
 
 
 
