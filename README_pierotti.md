@@ -7,3 +7,5 @@ blocco separato
 ```
 
 > testo quotato
+
+`rgb(0,255,0)` ciao
