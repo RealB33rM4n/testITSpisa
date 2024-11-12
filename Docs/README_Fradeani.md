@@ -7,3 +7,7 @@
 # Agosto❄️❄️
 ## sto facendo una sfida che si chiama agosto, in pratica deve nevicare tutto agosto 👃👃👃
 > HO STIRATO! ☠️
+* gli altri mesi non mi riguardano
+* tranne luglio e ottobre
+* perchè precedono i mesi che mi riguardano
+* (mesi in cui non dovrebbe nevicare ma nevica lo stesso)  
