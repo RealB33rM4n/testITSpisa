@@ -21,7 +21,7 @@ il colore è `#000000`
 * John Adams
 + Thomas Jefferson <br>
 <br><br><br>
-Vuoi accettare a quest di Pietro Pucci?
+Vuoi accettare la quest di Pietro Pucci?
 - [x] Sì
 - [ ] no
 <br><br><br><br><br><br><br><br>attendere...
