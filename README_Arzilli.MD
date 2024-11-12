@@ -1,6 +1,8 @@
 # Readme 
 File di istruzioni per il programma
 ## Passo n°1
-'#760A45'Formattare il PC
+Formattare il PC
 > _Scherzavo eheh_
 
+## Passo n°2
+[Google Maps](maps.google.com)
