@@ -5,6 +5,6 @@
 
 > TEsto quotato
 
-Il seguente link porta al sito [Google](https:\\www.google.com)
+Il seguente [link porta al sito Google](https:\\www.google.com)
 
 Vediamo se hai ragione
