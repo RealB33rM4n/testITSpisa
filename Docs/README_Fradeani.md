@@ -22,4 +22,4 @@
 
 # Immagini dimostrative
 
-(https://www.gannett-cdn.com/presto/2019/06/12/PPPO/bb35ac7c-f9cd-4994-8f22-c5e2c54de975-GettyImages-1135299590.jpg?crop=5759,3224,x0,y0&width=3200&height=1792&format=pjpg&auto=webp)
+https://www.gannett-cdn.com/presto/2019/06/12/PPPO/bb35ac7c-f9cd-4994-8f22-c5e2c54de975-GettyImages-1135299590.jpg?crop=5759,3224,x0,y0&width=3200&height=1792&format=pjpg&auto=webp
