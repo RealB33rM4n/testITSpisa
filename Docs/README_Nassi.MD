@@ -9,7 +9,7 @@
 - [x] Pasta al ragù
 
 ### Blyatman 
-![BLYATMAN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.facebook.com%2Fp%2FMeme-that-created-by-quiet-kid-100071148499261%2F&psig=AOvVaw225EIrAyX44uU-tKyrrM-_&ust=1731510093540000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKishJyI14kDFQAAAAAdAAAAABBa)
+![...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fl%3Denglish%26id%3D2299222377&psig=AOvVaw0fyYMJhuDgeLYQHQo6w_Q_&ust=1731510616303000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCks5aK14kDFQAAAAAdAAAAABAJ)
 
 
 ### .
