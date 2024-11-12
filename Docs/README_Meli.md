@@ -1,5 +1,8 @@
 # Titolo👹​👺​👻​
 ## aaaa🐒​🦧​🐷​
+
+![Ciaoooo]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXtz9aDYKZk2BOFk49kMKUOE45nl3mYH78FA&s](https://static.wikia.nocookie.net/evchk/images/5/50/Stokes-Hello-Kitty2-1200.jpg/revision/latest/thumbnail/width/360/height/360?cb=20141120063219))
+
 ### bbb🧜🏿‍♂️​🧑‍🎄​🛀​
 > Quote
 
