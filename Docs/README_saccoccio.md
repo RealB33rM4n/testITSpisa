@@ -16,7 +16,10 @@ il colore è `#000000`
 
 - George Washington
 * John Adams
-+ Thomas Jefferson <br><br><br><br><br><br>
++ Thomas Jefferson <br>
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:<br><br><br><br><br><br>
 attenzione!!! <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 sei stato invaso da antonio!!!<br>
 
