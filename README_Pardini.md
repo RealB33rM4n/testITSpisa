@@ -12,6 +12,6 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 - Tutto grassetto e italico: ***prova***
 
 ## Altro: 
-- Pedice: prova <sub>non</sub> prova
+- Pedice: 🤓<sub>☝️</sub>
 - Apice: prova <sup>non</sup> prova
 - Sottolineato: <ins>prova</ins>

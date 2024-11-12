@@ -5,6 +5,6 @@
 
 > TEsto quotato
 
-Testo normale
+[#RRGGBB Testo normale]
 
 Vediamo se hai ragione

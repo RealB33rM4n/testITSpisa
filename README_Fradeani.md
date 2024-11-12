@@ -1,1 +1,3 @@
-prova![MuaKissGIF](https://github.com/user-attachments/assets/f8b17590-8115-4d27-bfb0-107e24564834)
+# Novembre😊
+> sto facendo una sfida che si chiama novembre, in pratica devi sopravvivere tutto novembre 👌
+> #RRGGBB novembre colorato 
