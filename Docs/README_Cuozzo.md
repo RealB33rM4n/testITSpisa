@@ -41,7 +41,7 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 > POTREBBE NUOCERE GRAVEMENTE ALLA VOSTRA SANITA' MENTALE.
 
 ## Code: 
-Python: ` cout<<vivailcanepazzo>>endl;` -> ඞ
+Python: `cout<<vivailcanepazzo>>endl;`
 
 ## Immagini: 
 ![cane](https://img.freepik.com/foto-premium/cane-vestito-di-mantello-nero-con-cappuccio-e-falce_12395-1759.jpg)
