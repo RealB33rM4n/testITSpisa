@@ -39,7 +39,7 @@ a
 
 
 
-# Agosto❄️❄️
+# Agosto
 ## sto facendo una sfida che si chiama agosto, in pratica deve nevicare tutto agosto 👃👃👃
 > HO STIRATO! ☠️
 
