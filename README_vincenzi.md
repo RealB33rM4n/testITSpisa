@@ -12,7 +12,7 @@ _This test is italic_
 
 **This is bold (_this is italic_) yey**
 
-This is a <sub> supscript </sub>
+This is a <sub> subscript </sub>
 
 This is a <sup> supscript </sup>
 
