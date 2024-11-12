@@ -9,3 +9,16 @@ AVVIARE LA LAVATRICE
 
 
 ![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
+
+
+
+
+
+
+
+
+
+
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
