@@ -87,7 +87,7 @@ BELLAAAAAAAAAAHHHH
 
 
 
-# Cuoriosità
+# Curiosità
 
 * gli altri mesi non mi riguardano
 
