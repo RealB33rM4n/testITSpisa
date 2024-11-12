@@ -4,4 +4,4 @@
 ## Scegli
 - [ ] Pasta al pomodoro
 - [ ] Pasta al pesto
-- [x] Pasta al ragù
+- [ ] Pasta al ragù
