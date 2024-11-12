@@ -1,5 +1,6 @@
 ciao a tutti
 #INCLUDEIOSTREAM
 #INCLUDE INTMAIn
--FOR:(IF i<n;i++)
+-FOR:(IF n;i++)
 >ciao
+<sup> </sup> comprerò una lamborghini
