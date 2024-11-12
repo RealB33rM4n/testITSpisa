@@ -4,6 +4,8 @@ File di istruzioni per il programma
 Formattare il PC
 > _Scherzavo eheh_
 
+![..](https://www.raiplay.it/resizegd/1200x675/NUOVI%20EPISODI/dl/img/2024/10/01/1727793257918_2048x1152_label.jpg)
+
 ## Passo n 2
 [Google Maps](https://www.google.com/maps?authuser=0)
 
