@@ -28,7 +28,7 @@ print("Ciao, mondo!")
 
 Questo sito è stato creato usando [GitHub Pages](https://pages.github.com/).
 
-[Torna all'introduzione](#Introduzione)
+[Torna all'introduzione](#introduzione)
 
 
 
