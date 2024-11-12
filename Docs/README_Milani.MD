@@ -29,12 +29,16 @@ git commit
 
 
 
-[Link ai comandi](#comandi)
-
-
 [Link ai caratteri](#caratteri)
 
 
+[Link ai comandi](#comandi)
+
+
 [Link al github syntax](#github-syntax)
+
+
+[Link a immagine](#immagine)
+
 
 
