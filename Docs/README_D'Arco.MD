@@ -1,20 +1,21 @@
-# A first-level heading
+# A first level heading
 
 ###### 6-level heading
 
-**text grassetto**
-_testo corsivo_
->testo citato
+- **text grassetto**
+- _testo corsivo_
+- >testo citato
 
-Per evidenziare un comando esempio: `git status`
+- Per evidenziare un comando esempio: `git status`
 
-evidenziare blocco di comandi o istruzioni 
+- evidenziare blocco di comandi o istruzioni 
 ```
 git status
 git add
 git commit
 ```
-Link di un sito [TouTube](https://www.youtube.com/)
+- Link di un sito [TouTube](https://www.youtube.com/)
+
 
 ## Tipi di avvisi
 > [!NOTE]
@@ -31,3 +32,6 @@ Link di un sito [TouTube](https://www.youtube.com/)
 
 > [!CAUTION]
 > Consiglia i rischi o gli esiti negativi di determinate azioni.
+
+## Link che portano a paragrafiche del nostro file Readme
+Collegamento al primo titolo: [Link Text](#A-first-level-heading).
