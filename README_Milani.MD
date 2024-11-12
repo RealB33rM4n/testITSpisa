@@ -4,6 +4,7 @@
 **Testo Grassetto**
 *testo corsivo*
 
+
 ## Comandi
 comandi Git:
 ```
@@ -11,6 +12,7 @@ git status
 git add
 git commit
 ```
+
 
 ## Link
 
@@ -26,12 +28,12 @@ git commit
 
 
 
-Link ai comadi: [Link Text](#comandi)
+[Link ai comandi](#comandi)
 
 
-Link ai caratteri: [Link Text](#caratteri)
+[Link ai caratteri](#caratteri)
 
 
-Link ai github syntax: [Link Text](#link)
+[Link al github syntax](#link)
 
 
