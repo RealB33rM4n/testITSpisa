@@ -5,6 +5,6 @@
 
 > TEsto quotato
 
-[#RRGGBB Testo normale]
+Il seguente link porta al sito [Google](https:\\www.google.com)
 
 Vediamo se hai ragione
