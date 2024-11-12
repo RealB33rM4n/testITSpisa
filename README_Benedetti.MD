@@ -9,6 +9,6 @@ This site was built using [Google](https://www.google.it/?hl=it).
 
 A metà documento: [clicca qui](#metà-documento).
 
-#metà-documento
+# metà-documento
 
-#fine-documento
+# fine-documento
