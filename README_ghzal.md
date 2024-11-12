@@ -1,5 +1,5 @@
 # A first-level heading
 > ciao
-* ok
-link [go](https://google.com)
+* ok<br>
+link [go](https://google.com)<br>
 link[go](#link)
