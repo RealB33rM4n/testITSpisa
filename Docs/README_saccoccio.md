@@ -17,5 +17,5 @@ il colore è `#000000`
 - George Washington
 * John Adams
 + Thomas Jefferson <br>
-![antonio cuozzo](https://i.ytimg.com/vi/X2M2wUx2FS4/maxresdefault.jpg)
+
 ![antonio cuozzo](https://th.bing.com/th/id/OIP.3h2nYv8F85vYgzz2FdL1_wAAAA?rs=1&pid=ImgDetMain)
