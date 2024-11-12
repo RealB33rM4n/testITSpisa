@@ -72,3 +72,8 @@ Devo per forza scriverci qualcosa per fare spazio
 - [ ] Andare a casa
 - [ ] Lezione di domani
 
+
+
+
+
+<!-- ah ah non vedrai mai questo ah ah (leggere con voce di nelson) -->
