@@ -17,5 +17,9 @@ Formattare il PC
 
 ## Passo n 5
 
+- [x] Iniziare un file README
+- [ ] Finire un file README
+- [ ] Dormire
 
-![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
+## Passo n 6
+
