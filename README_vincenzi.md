@@ -19,3 +19,8 @@ This is a <sup> supscript </sup>
 <ins> This is underlined </ins>
 
 >This is a quote
+
+`#0969DA` Blu
+
+[Beluga](https://it.wikipedia.org/wiki/Delphinapterus_leucas)
+
