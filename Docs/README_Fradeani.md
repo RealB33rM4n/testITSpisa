@@ -2,7 +2,7 @@
 
 ## Indice 📖
 
-> [il mio mese preferito](#Agosto❄️❄️)
+> [il mio mese preferito](#Agosto)
 
 > [cose carine](#Curiosità) 
 
