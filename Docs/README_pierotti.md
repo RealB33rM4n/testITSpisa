@@ -18,5 +18,5 @@ task list
 - [x] dormi
 - [x] svegliati
 - [ ] mangia
-- [ ] dormi 🇦🇫
+- [ ] dormi 😪
       
