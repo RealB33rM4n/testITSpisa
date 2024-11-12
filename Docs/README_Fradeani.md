@@ -3,11 +3,11 @@
 ## Indice 📖
 
 > [il mio mese preferito](#Agosto)
-
+>
 > [cose carine](#Curiosità)
-
+>
 > [IMPORTANTE](#Immagine-dimostrativa)
-
+>
 > [BELLAAAAAAAAHHHH!](#BELLAAAAAAAAHHHH)
 
 
