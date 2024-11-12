@@ -42,6 +42,10 @@ Questo sito è stato creato usando [GitHub Pages](https://pages.github.com/).
 
 :smile: :rocket: :+1:
 
+![Logo di GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+
+
 Fixato in #1
 
 
