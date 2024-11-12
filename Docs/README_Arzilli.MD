@@ -3,7 +3,6 @@ File di istruzioni per il programma
 ## Passo n 1
 Formattare il PC
 > _Scherzavo eheh_
-![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
 
 ## Passo n 2
 [Google Maps](https://www.google.com/maps?authuser=0)
