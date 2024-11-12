@@ -15,9 +15,9 @@ git commit
 
 ## Footnote
 
-Here is a simple footnote[^1].
+footnote[^1].
 
-A footnote can also have multiple lines[^2].
+footnote con più linee [^2].
 [^1]: My reference.
 [^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
   This is a second line.
