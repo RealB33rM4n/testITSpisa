@@ -31,7 +31,11 @@ git commit
 
 
 Link ai comadi: [Link Text](#comandi)
+
+
 Link ai caratteri: [Link Text](#caratteri)
+
+
 Link ai github syntax: [Link Text](#link)
 
 
