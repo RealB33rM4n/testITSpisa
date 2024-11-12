@@ -10,7 +10,7 @@ git status
 git add
 git commit
 ```
-il colore è `#ffff00` fallimento
+il colore è `#ffffff` 
 
 [hyperlink](https://it.wikipedia.org/wiki/Collegamento_ipertestuale)
 
