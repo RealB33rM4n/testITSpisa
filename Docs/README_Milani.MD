@@ -26,10 +26,10 @@ git commit
 
 ## Tasks
 
-[x] Prendere il treno
-[x] Prendere autobus
-[ ] #1
-[ ] Tornare a casa
+- [x] Prendere il treno
+- [x] Prendere autobus
+- [] #1
+- [] Tornare a casa
 
 
 
