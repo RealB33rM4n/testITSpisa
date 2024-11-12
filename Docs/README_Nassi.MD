@@ -5,7 +5,7 @@
 
 ## Scegli
 - [ ] Pasta al pomodoro
-- [ ] Pasta al pesto
+- [ ] Pasta al pesto [1^]
 - [x] Pasta al ragù
 
 ### Blyatman 
