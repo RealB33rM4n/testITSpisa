@@ -17,7 +17,7 @@ Devo per forza scriverci qualcosa per fare spazio
 ##Martedì
 
 Devo per forza scriverci qualcosa per fare spazio
-![CORGI](https://giulianoaddestratore.it/razze-di-cani/pembroke-welsh-corgi/.jpeg)
+![CORGI](https://cdn-bjggm.nitrocdn.com/JzIBIRVtRCMOVRVuweeuNmdfikXkGOnA/assets/images/optimized/rev-9d47a7f/giulianoaddestratore.it/wp-content/uploads/2021/11/welsh-corgi-pembroke-nella-natura.jpg)
 
 ##Mercoledì
 
