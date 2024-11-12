@@ -94,10 +94,8 @@ Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 
 - [ ] \(Opzionale) ballz
 
+@rstarttt/testITSpisa taglia la bianca
 
+[^1]: bruh
 
-@rstarttt taglia la bianca
-
-[^1] bruh
-
-[^2] damn
+[^2]: damn
