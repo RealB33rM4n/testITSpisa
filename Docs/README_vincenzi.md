@@ -103,7 +103,7 @@ Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 
 @rstarttt/testITSpisa taglia la bianca
 
-note piede.
-
+note piede [^1]
+note foot [^2].
 [^1]: bruh
 [^2]: damn
