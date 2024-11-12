@@ -19,5 +19,6 @@ task list
 - [x] dormi
 - [x] svegliati
 - [ ] mangia
+- [x] #1
 - [ ] aint no party like a diddy party 😪
       
