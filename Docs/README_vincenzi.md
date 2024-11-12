@@ -75,11 +75,16 @@ Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 ## Una bellissima lista numerata
 
 1. sus
-
+ - perchè non è sas
+ - perchè non è sis
+   
 2. sas
-
+ - perchè non è sus
+ - perchè non è sis
+   
 3. sis
-
+ - stessa cosa degli altri
+ - basta
 
 ## Scelte a caso
 
