@@ -18,8 +18,9 @@ il colore è `#ffff00` fallimento
 task list
 - [x] dormi
 - [x] svegliati
-- [ ] mangia
+- [x] mangia
 - [x] #1
 - [x] aint no party like a diddy party 😪
 - [x] banana 
-      
+
+      **Ora hai mangiato**
