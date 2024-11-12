@@ -21,7 +21,7 @@
 
 * **DOCUMENTO A SCOPO ILLUSTRATIVO**
 
-# Immagini dimostrative
+# Immagine dimostrativa
 ![coca COLA!](https://www.verywellmind.com/thmb/-IbbEAgXRLNMKSmK3p-3zkgcIqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-of-a-drug-user-using-drugs--maine--usa--aur6500120601-5bfd881e46e0fb00264a8259.jpg)
 
 
