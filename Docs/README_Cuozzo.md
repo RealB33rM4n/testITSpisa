@@ -27,6 +27,9 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 - Pedice: <sub>☝️</sub>🤓
 - Apice: e<sup>x</sup>
 - Sottolineato: <ins>sono sempre Luca lo stesso</ins>
+## Alerts:
+> [!CAUTION]
+> POTREBBE NUOCERE GRAVEMENTE ALLA VOSTRA SANITA' MENTALE.
 
 ## Quote: 
 > Quoto
@@ -36,9 +39,6 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 - [ ] Dormire
 - [X] Bere  
 
-## Alerts:
-> [!CAUTION]
-> POTREBBE NUOCERE GRAVEMENTE ALLA VOSTRA SANITA' MENTALE.
 
 ## Code: 
 Python: `cout<<vivailcanepazzo>>endl;`
@@ -49,6 +49,9 @@ Python: `cout<<vivailcanepazzo>>endl;`
 
 ###  
 [Torna ad inizio pagina](#inizio_pagina)
+
+>[!TIP]
+> NON CONTINUARE A LEGGERE QUESTO FILE README
 
 # ROBA A CASO:
 ~~error 404~~
