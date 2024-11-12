@@ -2,7 +2,7 @@
 # Pagina di prova ඞ
 
 Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-## Legenda: 
+### Legenda: 
 - [Stili](#Stili)
 - [Altro](#Altro)
 - [Quote](#Quote)
