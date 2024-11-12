@@ -10,35 +10,3 @@ Formattare il PC
 ## Passo n°3
 [Link Text](#Passo-n°1)
 
-aaa
-
-
-
-
-aa
-
-
-
-
-a
-
-
-
-aa
-
-
-
-aa
-
-
-
-
-aa
-
-
-
-
-
-
-a
-aa
