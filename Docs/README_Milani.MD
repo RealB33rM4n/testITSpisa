@@ -24,7 +24,11 @@ git commit
 ![Immagine github:](https://th.bing.com/th/id/OIP.yWNibBRepmC6fO7mZnicCgHaHa?w=180&h=180&c=7&r=0&o=5&pid=1.7)
 
 
+## Tasks
 
+- [x] Prendere il treno
+- [x] Prendere autobus
+- [ ] Tornare a casa
 
 
 
@@ -41,5 +45,6 @@ git commit
 
 [Link a immagine](#immagine)
 
-![a caso](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
+
+[Link a tasks](#tasks)
 
