@@ -1,3 +1,22 @@
+-------------------------------------------------------------------------
+
+> [!TIP]
+> Riprova sarai più fortunata.
+
+-------------------------------------------------------------------------
+
+> [!CAUTION]
+> Qualcuno sta cercando di hackerare il tuo account!!!
+
+--------------------------------------------------------------------------
+
+
+![aaa](https://www.focusjunior.it/content/uploads/site_stored/imgs/0001/023/urlo-munch4.jpg)
+
+![aa](https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/16620/production/_91408619_55df76d5-2245-41c1-8031-07a4da3f313f.jpg.webp
+)
+
+![aa](https://img.freepik.com/foto-premium/la-serenita-affascinante-l-arte-della-notte-stellata-nell-incantevole-sfondo-da-tavolo-32-di-vincent-van-gogh_983420-139570.jpg)
 # Maria Mancuso
 **ciao Maria**
 >Questo dovrebbe essere un quote
@@ -17,7 +36,7 @@ Devo per forza scriverci qualcosa per fare spazio
 ##Martedì
 
 Devo per forza scriverci qualcosa per fare spazio
-![CORGI](https://www.piggypet.it/corgi/)
+![CORGI](https://cdn-bjggm.nitrocdn.com/JzIBIRVtRCMOVRVuweeuNmdfikXkGOnA/assets/images/optimized/rev-9d47a7f/giulianoaddestratore.it/wp-content/uploads/2021/11/welsh-corgi-pembroke-nella-natura.jpg)
 
 ##Mercoledì
 
@@ -27,12 +46,13 @@ Devo per forza scriverci qualcosa per fare spazio
 ##Giovedì
 
 Devo per forza scriverci qualcosa per fare spazio
-
+![CORGI](https://img.pixers.pics/pho_wat(s3:700/FO/16/60/41/32/0/700_FO166041320_ec80a985bb9120f90ec6bb5f0393e31a,700,472,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,422,jpg)/coperte-di-peluche-cucciolo-welsh-corgi-pembroke.jpg)
 
 ##Venerdì
 
 Devo per forza scriverci qualcosa per fare spazio
 
+![CORGI](https://storage.googleapis.com/pod_public/750/177546.jpg)
 
 ##Sabato
 
@@ -44,3 +64,37 @@ Devo per forza scriverci qualcosa per fare spazio
 
 
 [Torna a Lunedì](#Lunedì)
+
+![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
+
+##Task List
+- [x] Messe foto di corgi
+- [ ] Andare a casa
+- [ ] Lezione di domani
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ah ah non vedrai mai questo ah ah (leggere con voce di nelson) -->

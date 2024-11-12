@@ -1,6 +1,17 @@
+<a name="inizio_pagina"></a>
 # Pagina di prova ඞ
 
 Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### Legenda: 
+- [Stili](#Stili)
+- [Altro](#Altro)
+- [Quote](#Quote)
+- [Task](#Task)
+- [Alerts](#Alerts)
+- [Code](#Code)
+- [Immagine](#Immagini)
+
+###  
 
 ## Stili:  
 - Grassetto: **prova**
@@ -16,6 +27,9 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 - Apice: e<sup>x</sup>
 - Sottolineato: <ins>prova</ins>
 
+## Quote: 
+> Quoto
+
 ## Task: 
 - [x] Scrivere il README
 - [ ] Farlo bene
@@ -24,12 +38,11 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 
+## Code: 
+Python: ` print(chr(sum(range(ord(min(str(not())))))))` -> ඞ
 
+## Immagini: 
+![Logo di GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
-
-
-```Javascript
-let a = 1;
-let b = '1';
-console.log(a+b)
-```
+###  
+[Torna ad inizio pagina](#inizio_pagina)

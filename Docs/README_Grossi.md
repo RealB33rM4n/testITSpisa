@@ -4,7 +4,7 @@
 ## Sottotitolo
 ### Sottosottotitolo
 
-##Introduzione
+
 
 **Testo in grassetto**
 *Testo in corsivo*
@@ -28,7 +28,7 @@ print("Ciao, mondo!")
 
 Questo sito è stato creato usando [GitHub Pages](https://pages.github.com/).
 
-[Torna all'introduzione](#Introduzione)
+[Torna all'introduzione](#introduzione)
 
 
 
@@ -42,6 +42,16 @@ Questo sito è stato creato usando [GitHub Pages](https://pages.github.com/).
 
 :smile: :rocket: :+1:
 
-Fixato in #1
+![Logo di GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 
+
+
+
+## Introduzione
+
+
+
+
+
+![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)

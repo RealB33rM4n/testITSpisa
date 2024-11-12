@@ -8,36 +8,24 @@ Text that is not a quote
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 
-Apri README Bendetti: [Click Qui](/Docs/README_Benedetti.MD)
+Apri README Bendetti: [Saudde](/Docs/README_Benedetti.MD)
 
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
+# Il grande salvatore totò el footbalCastro
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://tmssl.akamaized.net/images/foto/galerie/santiago-castro-bologna-23-24-1717597815-138563.jpg)
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+# Loro Dallinga, noi Castro!! 
+## POESIA IN MOVIMENTO
+![loro Dallinga, noi Castro](https://www.1000cuorirossoblu.it/wp-content/uploads/2024/09/CASTRO-ESULTANZA-1.jpg)
 
-- George Washington
-* John Adams
-+ Thomas Jefferson
 
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
+- Castro                     
+* Lautaro
++ Kean
 
-1. First list item
-   - First nested list item
-     - Second nested list item
+300. Attaccanti
+     - Kean
+     - Lautaro
 
-100. First list item
-     - First nested list item
-
-100. First list item
-     - First nested list item
-       - Second nested list item
-
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [x] Vincere una partitra
+- [ ] Vincere il campionato
+- [X] Perdere 1 a 0

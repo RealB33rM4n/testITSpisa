@@ -1,8 +1,17 @@
+> [!NOTE]
+> nessuna, dovrebbe funzionare
+
+
 # First Level Heading
 
 ## Second Level Heading
 
 ### Third Level Heading
+
+> [!CAUTION]
+> immagine iper-realistica di un Hog Rider
+
+OMAMMA: [hog rider](#hog-rider)
 
 **This test is bold**
 
@@ -53,5 +62,48 @@ Link alla cosa utile: [Bellissimo](#sicuramente-sto-testo-sarà-utile).
 
 Link al testaccio1: [titoletto1](#non-è-un-solo-titoletto).
 
+
+#### era una bella immagine
+
 Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 
+## hog rider
+
+![uddio](https://preview.redd.it/ogzadbcu0okc1.jpeg?auto=webp&s=463a211ab992c5222d4a372bbbe06372c3f58f76)
+
+## Una bellissima lista non numerata
+
++ sus
+
++ sas
+
++ sis
+
+## Una bellissima lista numerata
+
+1. sus
+ - perchè non è sas
+ - perchè non è sis
+   
+2. sas
+ - perchè non è sus
+ - perchè non è sis
+   
+3. sis
+ - stessa cosa degli altri
+ - basta
+
+## Scelte a caso
+
+- [ ]  scrutamento omero
+
+- [x] lavaggio del perone
+
+- [ ] \(Opzionale) ballz
+
+taglia la bianca @rstarttt
+
+note piede [^1]
+note foot [^2].
+[^1]: bruh
+[^2]: damn

@@ -35,3 +35,15 @@ git commit
 
 ## Link che portano a paragrafiche del nostro file Readme
 Collegamento al primo titolo: [Link Text](#A-first-level-heading).
+
+## Immagine
+![Immagine](https://media.licdn.com/dms/image/v2/D4E12AQGUxTOC3los3A/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1694596637191?e=2147483647&v=beta&t=aLtaRFHobkh9Gb5Yq-f2nK1gDG6iD1nBTY8oQV9qb5g)
+
+## Task List (check)
+- [x] Backend
+- [ ] Frontend
+
+## Task list segnalazioni
+- [x] https://github.com/RealB33rM4n/testITSpisa/issues/1
+- [ ] https://github.com/RealB33rM4n/testITSpisa/issues/2
+- [ ] https://github.com/RealB33rM4n/testITSpisa/issues/3
