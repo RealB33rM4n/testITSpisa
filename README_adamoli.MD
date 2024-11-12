@@ -5,7 +5,7 @@
 > [!WARNING]
 > Urgent ci servono delle tende.
 
-<!-- probabilmente il corriere non ha nessun senzo dell'orientamento -->
+<!-- probabilmente il corriere non ha nessun senzo dell'orientamento. -->
 
 A metà documento [click qui](#tabella-dei-task)
 
