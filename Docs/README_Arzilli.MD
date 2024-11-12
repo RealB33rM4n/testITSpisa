@@ -1,6 +1,6 @@
 # Readme 
 File di istruzioni per il programma
-## Passo n°1
+## Passo n1
 Formattare il PC
 > _Scherzavo eheh_
 
@@ -8,7 +8,7 @@ Formattare il PC
 [Google Maps](https://www.google.com/maps?authuser=0)
 
 ## Passo n°3
-[Link Text](#Passo-n°1)
+[Link Text](#Passo-n1)
 
 ## Passo n°4
 
