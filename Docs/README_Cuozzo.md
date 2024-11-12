@@ -1,4 +1,54 @@
-# CUOZZO
+<a name="inizio_pagina"></a>
+# Pagina di prova  CUOZZO ඞ
+
+Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+### Legenda: 
+- [Stili](#Stili)
+- [Altro](#Altro)
+- [Quote](#Quote)
+- [Task](#Task)
+- [Alerts](#Alerts)
+- [Code](#Code)
+- [Immagine](#Immagini)
+
+###  
+
+## Stili:  
+- Grassetto: **augh**
+- Italic: _argh_
+- Barrato: 	~~miaooo~~
+
+### Stili misti: 
+- Grassetto e italic: **uuu _aaaa_**
+- Tutto grassetto e italico: ***azz***
+
+## Altro: 
+- Pedice: <sub>☝️</sub>🤓
+- Apice: e<sup>x</sup>
+- Sottolineato: <ins>prova</ins>
+
+## Quote: 
+> Quoto
+
+## Task:
+- [X] Andare a fare la spesa
+- [ ] Dormire
+- [X] Bere  
+
+## Alerts:
+> [!CAUTION]
+> POTREBBE NUOCERE GRAVEMENTE ALLA VOSTRA SANITA' MENTALE.
+
+## Code: 
+Python: ` cout<<vivailcanepazzo>>endl;` -> ඞ
+
+## Immagini: 
+![cane](https://img.freepik.com/foto-premium/cane-vestito-di-mantello-nero-con-cappuccio-e-falce_12395-1759.jpg)
+
+
+###  
+[Torna ad inizio pagina](#inizio_pagina)
+
 
 ~~error 404~~
 ## scioglilingua
@@ -10,10 +60,7 @@
 
   questo è il mio sito :[fake cuozzo](http://www.cuozzo.it)
 
-![cane](https://img.freepik.com/foto-premium/cane-vestito-di-mantello-nero-con-cappuccio-e-falce_12395-1759.jpg)
 
-- [X] Andare a fare la spesa
-- [ ] Dormire
-- [X] Bere 
+
   
  👌👌👌👌
