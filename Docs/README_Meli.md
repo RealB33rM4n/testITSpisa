@@ -12,11 +12,11 @@ Prova [Prova link](https://youtu.be/uxpDa-c-4Mc?feature=shared)
 
 ![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
 
-[x] ho mangiato
+- [x] ho mangiato
 
-[x] mi hanno modificato il file
+- [x] mi hanno modificato il file
 
-[] boh
+- [ ] boh
 
 
 ![aa](https://img.freepik.com/foto-premium/la-serenita-affascinante-l-arte-della-notte-stellata-nell-incantevole-sfondo-da-tavolo-32-di-vincent-van-gogh_983420-139570.jpg)
