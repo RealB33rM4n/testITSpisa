@@ -8,4 +8,4 @@ blocco separato
 
 > testo quotato
 
-`rgb(0,255,0)` ciao
+`rgb(0,255,0)ciao ` ciao
