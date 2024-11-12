@@ -4,7 +4,7 @@
 
 > [il mio mese preferito](#Agosto)
 
-> [cose carine](#Curiosità)
+> [cose carine](#Curiosita)
 
 > [IMPORTANTE](#Immagine-dimostrativa)
 
@@ -85,7 +85,7 @@ BELLAAAAAAAAAAHHHH
 
 
 
-# Cuoriosità
+# Cuoriosita
 
 * gli altri mesi non mi riguardano
 
