@@ -7,4 +7,4 @@
 
   li vuoi quei <sup>kiwi?</sup> 
 
-  questo è il mio sito fake: [cuozzo] (http://www.cuozzo.it)
+  questo è il mio sito fake:[cuozzo](http://www.cuozzo.it)
