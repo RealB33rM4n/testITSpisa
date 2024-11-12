@@ -10,9 +10,6 @@
 
 --------------------------------------------------------------------------
 
-![aaa](https://wallpapers.com/images/featured/immagini-del-profilo-spaventose-b26fe2niyc4nsbuz.jpg)
-
-
 
 ![aaa](https://www.focusjunior.it/content/uploads/site_stored/imgs/0001/023/urlo-munch4.jpg)
 
