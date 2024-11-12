@@ -54,4 +54,3 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
-![5](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8c-05T1-cMrMih2caG3JSeQK9mhSFs-n7qWLScIFtOuvYAE3FUZN-c0Hd1UzlKchN3gkU6CNLYC_yEmEikHOrtx8TKQ82Nx-Q2_DCDpn5cc0oJLq0rLrgdRNPHFvdjvTMvUkP1UxShXc/s1600/duo.jpg)
