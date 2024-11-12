@@ -42,4 +42,8 @@ Formattare il PC
 > [!CAUTION]
 > pericolo.
 
+## Passo n 7
 
+<!-- This content will not appear in the rendered Markdown -->
+
+<!-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa -->
