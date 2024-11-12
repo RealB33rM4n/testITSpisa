@@ -10,7 +10,7 @@ git status
 git add
 git commit
 ```
-il colore è `#000000` 
+il colore è `#000000` e `rgb(9, 105, 218)`
 
 [hyperlink](https://it.wikipedia.org/wiki/Collegamento_ipertestuale)
 
