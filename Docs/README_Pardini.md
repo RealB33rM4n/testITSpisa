@@ -9,6 +9,7 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 - [Task](#Task)
 - [Alerts](#Alerts)
 - [Code](#Code)
+- [Immagine](#Immagini)
 
 ###  
 
@@ -40,7 +41,8 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 ## Code: 
 Python: ` print(chr(sum(range(ord(min(str(not())))))))` -> ඞ
 
-## 
+## Immagini: 
+![Logo di GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 
 ###  
 [Torna ad inizio pagina](#inizio_pagina)
