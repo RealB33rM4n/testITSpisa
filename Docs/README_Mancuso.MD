@@ -1,5 +1,11 @@
 -------------------------------------------------------------------------
 
+> [!WARNING}
+> Homer ovunque, Homer ovunque, attenzione, Homer ovunque.
+> E un easter egg
+
+-------------------------------------------------------------------------
+
 > [!TIP]
 > Riprova sarai più fortunata.
 
