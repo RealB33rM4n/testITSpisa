@@ -7,7 +7,3 @@
 # Agosto❄️❄️
 ## sto facendo una sfida che si chiama agosto, in pratica deve nevicare tutto agosto 👃👃👃
 > HO STIRATO! ☠️
-> 
-> come si cambia colore dello sfondo?
-> booooooooooooooo
-> non lo so
