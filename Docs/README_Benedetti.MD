@@ -27,3 +27,5 @@ A Saudde: [clicca qui](#Saudde).
 
 ##### Loro Dallinga, noi Ciccio Castro!!
 ![loro Dallinga, noi Castro](https://www.1000cuorirossoblu.it/wp-content/uploads/2024/09/CASTRO-ESULTANZA-1.jpg)
+
+###### SONO SEMPRE LUCA LO STESSO UO UO UO UO
