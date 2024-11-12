@@ -12,6 +12,14 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 - Tutto grassetto e italico: ***prova***
 
 ## Altro: 
-- Pedice: 🤓<sub>☝️</sub>
-- Apice: prova <sup>non</sup> prova
+- Pedice: <sub>☝️</sub>🤓
+- Apice: e<sup>x</sup>
 - Sottolineato: <ins>prova</ins>
+
+## Task: 
+- [x] Scrivere il README
+- [ ] Farlo bene
+
+## Alerts:
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
