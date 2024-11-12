@@ -1,4 +1,15 @@
-`#000000`
+## Footnote
+
+Footnote [^1].
+
+Un footnote può avere più righe[^2].
+
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+
+
 ## Caratteri
 
 **Testo Grassetto**
@@ -13,16 +24,6 @@ git add
 git commit
 ```
 
-## Footnote
-
-Footnote [^1].
-
-Un footnote può avere più righe[^2].
-
-
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
 
 
 ## Github Syntax
