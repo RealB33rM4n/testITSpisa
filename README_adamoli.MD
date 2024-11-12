@@ -18,6 +18,7 @@ Vediamo se hai ragione
 # tabella dei task
 
 - [ ] https://github.com/RealB33rM4n/testITSpisa/issues/1
+- [ ] https://github.com/RealB33rM4n/testITSpisa/issues/2
 - [ ] caffè del mattino
 - [ ] bombolone alla crema
 - [ ] merda merda 
