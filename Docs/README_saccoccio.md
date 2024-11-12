@@ -14,3 +14,6 @@ il colore è `#000000`
 
 [hyperlink](https://it.wikipedia.org/wiki/Collegamento_ipertestuale)
 
+- George Washington
+* John Adams
++ Thomas Jefferson
