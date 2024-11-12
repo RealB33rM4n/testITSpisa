@@ -96,4 +96,8 @@ Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 
 
 
-@testITSpisa/rstarttt taglia la bianca
+@rstarttt taglia la bianca
+
+[^1] bruh
+
+[^2] damn
