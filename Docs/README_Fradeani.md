@@ -29,4 +29,4 @@
 
 
 
-![a caso](https://www.google.com/url?sa=i&url=https%3A%2F%2Fparticle.scitech.org.au%2Fhealth%2Fcould-random-noise-supercharge-your-brain%2F&psig=AOvVaw0nwhyxWrJsf_MDvT8L_yvO&ust=1731509700082000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNil39aG14kDFQAAAAAdAAAAABAJ)
+![a caso](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
