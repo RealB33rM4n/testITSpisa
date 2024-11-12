@@ -10,7 +10,7 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 - [Alerts](#Alerts)
 - [Code](#Code)
 
-##
+###  
 
 ## Stili:  
 - Grassetto: **prova**
@@ -27,7 +27,7 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 - Sottolineato: <ins>prova</ins>
 
 ## Quote: 
-> 
+> Quoto
 
 ## Task: 
 - [x] Scrivere il README
