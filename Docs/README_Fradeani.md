@@ -21,5 +21,4 @@
 * **DOCUMENTO A SCOPO ILLUSTRATIVO**
 
 # Immagini dimostrative
-
-https://www.gannett-cdn.com/presto/2019/06/12/PPPO/bb35ac7c-f9cd-4994-8f22-c5e2c54de975-GettyImages-1135299590.jpg?crop=5759,3224,x0,y0&width=3200&height=1792&format=pjpg&auto=webp
+![coca COLA!](https://www.verywellmind.com/thmb/-IbbEAgXRLNMKSmK3p-3zkgcIqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-of-a-drug-user-using-drugs--maine--usa--aur6500120601-5bfd881e46e0fb00264a8259.jpg)
