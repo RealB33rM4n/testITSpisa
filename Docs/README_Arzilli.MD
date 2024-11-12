@@ -17,7 +17,6 @@ Formattare il PC
 
 ## Passo n 5
 
-- [x] #1
 - [x] Iniziare un file README
 - [ ] Finire un file README
 - [ ] Dormire
