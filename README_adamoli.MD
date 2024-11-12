@@ -17,7 +17,6 @@ Vediamo se hai ragione
 
 # tabella dei task
 
-- [x] #1
 - [ ] https://github.com/RealB33rM4n/testITSpisa/issues/1
 - [ ] caffè del mattino
 - [ ] bombolone alla crema
