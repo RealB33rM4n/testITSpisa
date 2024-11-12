@@ -28,8 +28,8 @@ git commit
 
 - [x] Prendere il treno
 - [x] Prendere autobus
-- [] #1
-- [] Tornare a casa
+- [ ] #1
+- [ ] Tornare a casa
 
 
 
