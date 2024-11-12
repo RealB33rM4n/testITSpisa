@@ -16,6 +16,7 @@ git commit
 ## Footnote
 
 Footnote [^1].
+
 Un footnote può avere più righe[^2].
 
 
