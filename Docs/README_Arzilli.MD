@@ -1,5 +1,5 @@
 # Readme 
-File di istruzioni per il programma
+File di istruzioni per il programm
 ## Passo n 1
 Formattare il PC
 > _Scherzavo eheh_
