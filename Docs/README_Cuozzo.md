@@ -1,5 +1,5 @@
 <a name="inizio_pagina"></a>
-# Pagina di prova  CUOZZO ඞ
+# Pagina di prova di CUOZZO ඞ
 
 Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 ### Legenda: 
@@ -10,6 +10,7 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 - [Alerts](#Alerts)
 - [Code](#Code)
 - [Immagine](#Immagini)
+- [Roba a caso](#Robaccia)
 
 ###  
 
@@ -49,7 +50,7 @@ Python: ` cout<<vivailcanepazzo>>endl;` -> ඞ
 ###  
 [Torna ad inizio pagina](#inizio_pagina)
 
-
+# ROBA A CASO:
 ~~error 404~~
 ## scioglilingua
 ***se l'arcivescovo di Costantinopoli si disarcivescovizzasse ti disarcivescovizzeresti anche tu come si è disarcivescovizzato l'arcivescovo di Costantinopoli***
