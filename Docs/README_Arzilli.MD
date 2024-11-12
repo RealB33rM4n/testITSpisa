@@ -25,5 +25,5 @@ Formattare il PC
 - [ ] [#2](https://github.com/RealB33rM4n/testITSpisa/issues/3)
 
 ## Passo n 6
-
+![ops](https://www.blogsicilia.it/wp-content/uploads/sites/2/2022/06/internet-explorer.jpg)
 
