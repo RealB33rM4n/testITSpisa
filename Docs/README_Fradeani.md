@@ -8,6 +8,8 @@
 
 > [IMPORTANTE](#Immagine-dimostrativa)
 
+> [BELLAAAAAAAAHHHH!](#BELLAAAAAAAAHHHH)
+
 
 - [ ] Gennaio
 - [ ] Aprile
@@ -27,7 +29,14 @@
 
 
 
-> BELLAAAAAAAAAAHHHH
+
+
+
+BELLAAAAAAAAAAHHHH
+
+
+
+
 
 
 
@@ -40,7 +49,16 @@
 
 
 
-> BELLAAAAAAAAAAHHHH
+
+
+
+
+
+BELLAAAAAAAAAAHHHH
+
+
+
+
 
 
 
@@ -54,7 +72,13 @@
 
 
 
-> BELLAAAAAAAAAAHHHH
+
+
+
+BELLAAAAAAAAAAHHHH
+
+
+
 
 
 
@@ -71,17 +95,30 @@
 
 * mesi in cui non dovrebbe nevicare ma nevica lo stesso: TUTTI
 
-
-
-
-
-> BELLAAAAAAAAAAHHHH
-
-
-
-
-
 * **DOCUMENTO A SCOPO ILLUSTRATIVO**
+
+
+
+
+
+
+
+
+
+
+BELLAAAAAAAAAAHHHH
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Immagine dimostrativa
 ![coca COLA!](https://www.verywellmind.com/thmb/-IbbEAgXRLNMKSmK3p-3zkgcIqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-of-a-drug-user-using-drugs--maine--usa--aur6500120601-5bfd881e46e0fb00264a8259.jpg)
@@ -94,6 +131,20 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+# BELLAAAAAAAAHHHH
+![BELLAAAAAAAAHHHH](https://i.ytimg.com/vi/FYHtV3nf6Sg/hqdefault.jpg)
+
+BELLAAAAAAAAHHHH!!!!
 
 
 
