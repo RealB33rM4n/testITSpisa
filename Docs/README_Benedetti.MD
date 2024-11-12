@@ -9,7 +9,7 @@ This site was built using [Google](https://www.google.it/?hl=it).
 
 Apri README Pannocchia: [Click qui](/Docs/README_Pannocchia.MD)
 
-A metà documento: [clicca qui](#Saudde).
+A Saudde: [clicca qui](#Saudde).
 
 # Saudde
 
