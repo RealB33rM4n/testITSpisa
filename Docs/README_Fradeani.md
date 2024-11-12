@@ -1,4 +1,11 @@
 # ⚠️ TUTTO UN MEME ⚠️
+
+- [ ] Gennaio
+- [ ] Aprile
+- [x] Agosto
+- [x] Novembre
+- [x] Dicembre
+
 # Novembre😊
 ## sto facendo una sfida che si chiama novembre, in pratica devi sopravvivere tutto novembre
 > DAJE
