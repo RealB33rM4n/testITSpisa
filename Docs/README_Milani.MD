@@ -1,4 +1,4 @@
-## Footnote
+  ## Footnote
 
 Footnote [^1].
 
@@ -45,6 +45,23 @@ git commit
 
 ## Testo nascosto
 <!-- testo nascosto -->
+
+##  Avvisi
+
+> [!NOTE]
+>informazione utile
+
+> [!TIP]
+> Aiuto
+
+> [!IMPORTANT]
+> Informazione essenziale
+
+> [!WARNING]
+> Informazione urgente
+
+> [!CAUTION]
+> Avvisi di rischio
 
 
 ## **Links:**
