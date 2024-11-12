@@ -11,12 +11,22 @@
 
 * gli altri mesi non mi riguardano
 
+
+
+
 * tranne luglio e ottobre
 
+
+
 * perchè precedono i mesi che mi riguardano
+
+
+
 
 * mesi in cui non dovrebbe nevicare ma nevica lo stesso: TUTTI
 
 
-* DOCUMENTO A SCOPO ILLUSTRATIVO
+
+
+* **DOCUMENTO A SCOPO ILLUSTRATIVO**
 
