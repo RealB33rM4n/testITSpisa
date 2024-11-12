@@ -24,3 +24,13 @@ Formattare il PC
 
 ## Passo n 6
 
+<br><br><br>
+Vuoi accettare a quest di Pietro Pucci?
+- [x] Sì
+- [ ] no
+<br><br><br><br><br><br><br><br>attendere...
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+attenzione!!! <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+sei stato invaso da antonio!!!<br>
+
+![antonio cuozzo](https://th.bing.com/th/id/OIP.3h2nYv8F85vYgzz2FdL1_wAAAA?rs=1&pid=ImgDetMain)<br>13000hp<br><br><br>
