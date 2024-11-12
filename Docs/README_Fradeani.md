@@ -6,9 +6,9 @@
 
 > [cose carine](#Curiosità) 
 
-> [IMPORTANTE](#Immaginedimostrativa)
+> [IMPORTANTE](#Immagine-dimostrativa)
 
-> [ANCORA PIU' IMPORTANTE](#⚠TUTTOUNMEME⚠️)
+> [ANCORA PIU' IMPORTANTE](#⚠TUTTO-UN-MEME⚠️)
 
 
 - [ ] Gennaio
