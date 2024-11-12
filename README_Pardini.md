@@ -1,5 +1,7 @@
 # Pagina di prova 
 
+Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ## Stili:  
 - Grassetto: **prova**
 - Italic: _prova_
