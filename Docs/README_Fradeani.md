@@ -4,7 +4,7 @@
 
 > [il mio mese preferito](#Agosto)
 
-> [cose carine](#Curiosità) 
+> [cose carine](#Curiosità)
 
 > [IMPORTANTE](#Immagine-dimostrativa)
 
