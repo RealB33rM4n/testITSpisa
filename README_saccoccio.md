@@ -10,4 +10,4 @@ git status
 git add
 git commit
 ```
-<style background color="#ffffff"/>
+<style background-color="#ffffff"></style>
