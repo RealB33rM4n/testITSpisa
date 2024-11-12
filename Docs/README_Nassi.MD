@@ -1,4 +1,4 @@
-### Sopra [Sotto](###Sotto)
+### Sopra [Sotto](#Sotto)
 
 # Livelli 
 <sup><sup> Ancora più sopra </sup> Sopra </sup> Medio <sub> Sotto <sub> Ancora più sotto </sub></sub>
@@ -40,4 +40,4 @@
 ### .
 ### .
 ### .
-### Sotto
+### Sotto [Sopra](#Sopra)
