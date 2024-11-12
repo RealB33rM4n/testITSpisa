@@ -26,7 +26,7 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 ## Altro: 
 - Pedice: <sub>☝️</sub>🤓
 - Apice: e<sup>x</sup>
-- Sottolineato: <ins>prova</ins>
+- Sottolineato: <ins>sono sempre Luca lo stesso</ins>
 
 ## Quote: 
 > Quoto
