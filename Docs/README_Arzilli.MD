@@ -16,3 +16,6 @@ Formattare il PC
 ![Tsubasaaa](https://upload.wikimedia.org/wikipedia/it/a/aa/Personaggi_di_Capitan_Tsubasa.png)
 
 ## Passo n 5
+
+
+![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
