@@ -15,3 +15,6 @@ A Saudde: [clicca qui](#Saudde).
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/33/337fe55a65598f5fcaf28688e170414b-58324-oooz0000.jpeg)
 # fine-documento
+
+
+![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
