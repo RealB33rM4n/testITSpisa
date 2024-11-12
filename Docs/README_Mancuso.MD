@@ -47,3 +47,9 @@ Devo per forza scriverci qualcosa per fare spazio
 [Torna a Lunedì](#Lunedì)
 
 ![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
+
+##Task List
+- [x] Messe foto di corgi
+- [ ] Andare a casa
+- [ ] Lezione di domani
+
