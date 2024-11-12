@@ -61,8 +61,3 @@ Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 
 ![uddio](https://preview.redd.it/ogzadbcu0okc1.jpeg?auto=webp&s=463a211ab992c5222d4a372bbbe06372c3f58f76)
 
-# qualche scelta a buffo
-[] sus
-[] sas
-[] sis
-
