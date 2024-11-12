@@ -1,5 +1,18 @@
 # ⚠️ TUTTO UN MEME ⚠️
 
+# ⚠️ TUTTO UN MEME ⚠️
+
+## Indice 📖
+
+> [il mio mese preferito](#Agosto❄️❄️)
+
+> [cose carine](#Curiosità) 
+
+> [IMPORTANTE](#Immaginedimostrativa)
+
+> [ANCORA PIU' IMPORTANTE](#⚠TUTTOUNMEME⚠️)
+
+
 - [ ] Gennaio
 - [ ] Aprile
 - [x] Agosto
