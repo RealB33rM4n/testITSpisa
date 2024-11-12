@@ -9,9 +9,9 @@ This site was built using [Google](https://www.google.it/?hl=it).
 
 Apri README Pannocchia: [Click qui](/Docs/README_Pannocchia.MD)
 
-A metà documento: [clicca qui](#metà-documento).
+A metà documento: [clicca qui](#Saudde).
 
-# metà-documento
+# Saudde
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://tmw-storage.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/33/337fe55a65598f5fcaf28688e170414b-58324-oooz0000.jpeg)
 # fine-documento
