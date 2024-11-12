@@ -33,7 +33,7 @@ TESTO 2
 
 ### Collegamenti alle intestazioni di esempio precedenti
 
-Collegamento alla sezione campione: [Link Text](#Titoli-di -esempio).
+Collegamento alla sezione campione: [Link Text](#Titoli-di-esempio).
 
 ## Tipi di avvisi
 > [!NOTE]
