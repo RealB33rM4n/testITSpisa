@@ -9,24 +9,7 @@ Formattare il PC
 
 ## Passo n°3
 [Link Text](#Passo-n°1)
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
-aa
+<br>
 aaa
-aa
-a
-
-a
-a
-a
-prova
+<br>
+aaaa
