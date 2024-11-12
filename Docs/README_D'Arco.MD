@@ -36,5 +36,5 @@ git commit
 ## Link che portano a paragrafiche del nostro file Readme
 Collegamento al primo titolo: [Link Text](#A-first-level-heading).
 
-##Immagine
-![Immagine](https://foundations.projectpythia.org/_images/GitHub-logo.png)
+## Immagine
+![Immagine](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fgithub-copilot-pros-cons-mike-smith&psig=AOvVaw2tkHTORHl6iUxQSsB6s-nw&ust=1731508303543000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjO_bKB14kDFQAAAAAdAAAAABAS)
