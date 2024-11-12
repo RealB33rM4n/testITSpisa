@@ -31,7 +31,9 @@
 # Immagine dimostrativa
 ![coca COLA!](https://www.verywellmind.com/thmb/-IbbEAgXRLNMKSmK3p-3zkgcIqA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/close-up-of-a-drug-user-using-drugs--maine--usa--aur6500120601-5bfd881e46e0fb00264a8259.jpg)
 
+~~viva la bianca~~
 
-ù![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
+
+![...](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
 
 
