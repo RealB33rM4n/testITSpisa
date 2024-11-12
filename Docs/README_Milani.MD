@@ -41,5 +41,5 @@ git commit
 
 [Link a immagine](#immagine)
 
-
+![a caso](https://www.testo-unico-sicurezza.com/81/_media/img/large/playstoremy81.jpg)
 
