@@ -1,4 +1,4 @@
-# Pagina di prova 
+# Pagina di prova ඞ
 
 Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
@@ -23,3 +23,13 @@ Per tutte le info clicca [qui](https://docs.github.com/en/get-started/writing-on
 ## Alerts:
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+
+
+
+
+```Javascript
+let a = 1;
+let b = '1';
+console.log(a+b)
+```
