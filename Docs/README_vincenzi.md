@@ -83,8 +83,8 @@ Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 
 ## Scelte a caso
 
-[ ] scrutamento ciola
+- [ ] scrutamento omero
 
-[ ] lavaggio del perone
+- [ ] lavaggio del perone
 
-[ ] ballz
+- [ ] ballz
