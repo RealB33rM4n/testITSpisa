@@ -20,5 +20,5 @@ task list
 - [x] svegliati
 - [ ] mangia
 - [x] #1
-- [ ] aint no party like a diddy party 😪
+- [x] aint no party like a diddy party 😪
       
