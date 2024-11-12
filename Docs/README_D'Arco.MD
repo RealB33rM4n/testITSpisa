@@ -41,4 +41,4 @@ Collegamento al primo titolo: [Link Text](#A-first-level-heading).
 
 ## Task List (check)
 - [x] Backend
-- [] Frontend
+- [ ] Frontend
