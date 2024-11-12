@@ -1,5 +1,5 @@
 `#000000`
-# A 1-level heading
+## Caratteri
 
 **Testo Grassetto**
 *testo corsivo*
@@ -12,7 +12,7 @@ git add
 git commit
 ```
 
-### Link
+## Link
 
 [Github Syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 > Apre link
@@ -29,16 +29,9 @@ git commit
 
 
 
-.
-.
-.
-.
-.
-.
 
-
-
-
-Link ai comadi: [Link Text](#Comandi)
+Link ai comadi: [Link Text](#comandi)
+Link ai caratteri: [Link Text](#caratteri)
+Link ai github syntax: [Link Text](#link)
 
 
