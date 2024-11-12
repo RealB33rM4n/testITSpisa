@@ -9,7 +9,7 @@ link[go](../testITSpisa)
 aaa
 
 
-<b>dhjdk</b>
+<b color="red">dhjdk</b>
 
 
 kdhkjd
