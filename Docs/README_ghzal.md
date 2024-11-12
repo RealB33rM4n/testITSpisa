@@ -9,4 +9,8 @@ link[go](../testITSpisa)
 photo :
 
 
-![one piece](https://storage.googleapis.com/pod_public/1300/186138.jpg)
+![one piece]()
+- [ ] #4
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
