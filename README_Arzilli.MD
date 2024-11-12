@@ -1,6 +1,6 @@
 # Readme 
 File di istruzioni per il programma
 ## Passo n°1
-Formattare il PC
-#760A45 > _Scherzavo eheh_
+#760A45 Formattare il PC
+> _Scherzavo eheh_
 
