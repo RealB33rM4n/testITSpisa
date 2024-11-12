@@ -1,3 +1,7 @@
+> [!NOTE]
+> nessuna, dovrebbe funzionare
+
+
 # First Level Heading
 
 ## Second Level Heading
@@ -96,6 +100,7 @@ Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 
 @rstarttt/testITSpisa taglia la bianca
 
-[^1]: bruh
+note piede.
 
+[^1]: bruh
 [^2]: damn
