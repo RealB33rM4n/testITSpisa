@@ -17,7 +17,8 @@ Vediamo se hai ragione
 
 # tabella dei task
 
-- [x] caffè del mattino
+- [x] #1
+- [ ] caffè del mattino
 - [ ] bombolone alla crema
 - [ ] merda merda 
 
