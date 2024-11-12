@@ -11,6 +11,6 @@ A metà documento: [clicca qui](#metà-documento).
 
 # metà-documento
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fit.wikipedia.org%2Fwiki%2FZito_Luvumbo&psig=AOvVaw0LjAJ4sQnZ_J-ipqPNoj4P&ust=1731508303492000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMj6ysyB14kDFQAAAAAdAAAAABAJ)
 
 # fine-documento
