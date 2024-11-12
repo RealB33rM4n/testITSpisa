@@ -1,4 +1,4 @@
-### Sotto [[Link Text](Sopra)
+### Sotto 
 
 # Livelli 
 <sup><sup> Ancora più sopra </sup> Sopra </sup> Medio <sub> Sotto <sub> Ancora più sotto </sub></sub>
@@ -67,4 +67,4 @@
 
 
 
-### Sopra [[Link Text](Sotto)
+### Sopra
