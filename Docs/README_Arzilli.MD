@@ -11,13 +11,13 @@ Formattare il PC
 [Link Text](#Passo-n-1)
 
 ## Passo n 4
-!['_'](https://thumbs.dreamstime.com/b/corgi-arancio-divertente-di-lingua-gallese-illustrazione-sorridente-vettore-del-carattere-canino-comico-sveglio-140301323.jpg)
 
 #### Captain Tsubasa
 ![Tsubasaaa](https://upload.wikimedia.org/wikipedia/it/a/aa/Personaggi_di_Capitan_Tsubasa.png)
 
 ## Passo n 5
 
+- [x] #1
 - [x] Iniziare un file README
 - [ ] Finire un file README
 - [ ] Dormire
