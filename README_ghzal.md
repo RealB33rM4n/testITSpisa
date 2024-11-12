@@ -2,4 +2,4 @@
 > ciao
 * ok<br>
 link [go](https://google.com)<br>
-link[go](#/testITSpisa)
+link[go](#../testITSpisa)
