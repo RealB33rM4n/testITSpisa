@@ -8,8 +8,6 @@
 
 > [IMPORTANTE](#Immagine-dimostrativa)
 
-> [ANCORA PIU' IMPORTANTE](#⚠TUTTO-UN-MEME⚠️)
-
 
 - [ ] Gennaio
 - [ ] Aprile
@@ -18,7 +16,7 @@
 - [x] Dicembre
 
 
-a
+
 
 
 
@@ -28,7 +26,7 @@ a
 
 
 
-a
+
 
 
 # Dicembre😎
@@ -46,7 +44,7 @@ a
 
 
 
-a
+
 
 
 
