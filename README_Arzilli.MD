@@ -5,4 +5,4 @@ Formattare il PC
 > _Scherzavo eheh_
 
 ## Passo n°2
-[Google Maps](maps.google.com)
+[Google Maps](https:\\maps.google.com)
