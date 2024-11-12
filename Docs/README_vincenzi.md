@@ -101,7 +101,7 @@ Link al testaccio2: [titoletto2](#appunto-questo-è-uguale).
 
 - [ ] \(Opzionale) ballz
 
-@github/rstarttt taglia la bianca
+taglia la bianca @rstarttt
 
 note piede [^1]
 note foot [^2].
