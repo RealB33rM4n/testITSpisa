@@ -8,7 +8,7 @@ Text that is not a quote
 
 Use `git status` to list all new or modified files that haven't yet been committed.
 
-Apri README Bendetti: [Click Qui](Docs/README_Benedetti.MD)
+Apri README Bendetti: [Click Qui](/Docs/README_Benedetti.MD)
 
 Some basic Git commands are:
 ```
