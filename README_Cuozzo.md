@@ -9,5 +9,7 @@
 
   questo è il mio sito fake:[cuozzo](http://www.cuozzo.it)
 
+  ![CANE VESTITO][(https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fch_it%2Fimages%2Fcane-vestito-da-uomo-d-affari%2F115930106&psig=AOvVaw1BCe75bTZ1DxMUSbrRAMkX&ust=1731506815936000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMio7ZP81okDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fch_it%2Fimages%2Fcane-vestito-da-uomo-d-affari%2F115930106&psig=AOvVaw1BCe75bTZ1DxMUSbrRAMkX&ust=1731506815936000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMio7ZP81okDFQAAAAAdAAAAABAE)
+
  👌👌👌👌
 
