@@ -42,3 +42,7 @@ Collegamento al primo titolo: [Link Text](#A-first-level-heading).
 ## Task List (check)
 - [x] Backend
 - [ ] Frontend
+
+## Task list segnalazioni
+- [ ] #1
+- [ ] https://github.com/RealB33rM4n/testITSpisa/issues/2
