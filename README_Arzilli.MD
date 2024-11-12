@@ -1,2 +1,3 @@
-
-## CIAO SONO GATTINNO 02
+# Readme 
+file di istruzioni per il programma
+## Passo n°1
