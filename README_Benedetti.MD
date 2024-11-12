@@ -7,12 +7,12 @@ Text that is not a quote
 
 This site was built using [Google](https://www.google.it/?hl=it).
 
-A metà documento [click qui](#metà documento)
+A metà documento: [clicca qui](#meta documento).
 
 
-#metà documento
+#metà-documento
 
 
 
 
-#fine documento
+#fine-documento
