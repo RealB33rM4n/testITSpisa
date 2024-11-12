@@ -16,6 +16,9 @@
 ## sto facendo una sfida che si chiama agosto, in pratica deve nevicare tutto agosto 👃👃👃
 > HO STIRATO! ☠️
 
+![naaaaa](https://i0.wp.com/www.spettacolo.eu/wp-content/uploads/2019/03/Hello-Kitty.jpg)
+
+
 # Cuoriosità
 
 * gli altri mesi non mi riguardano
