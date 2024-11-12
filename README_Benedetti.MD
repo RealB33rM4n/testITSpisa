@@ -5,4 +5,4 @@
 Text that is not a quote 
 > text that is a quote
 
-This site was built using [Google](www.google.it).
+This site was built using [Google](https://www.google.it/?hl=it).
