@@ -16,10 +16,14 @@ Apri README Bendetti: [Saudde](/Docs/README_Benedetti.MD)
 
 
 
-- Castro
+- Castro                     
 * Lautaro
 + Kean
 
 300. Attaccanti
      - Kean
      - Lautaro
+
+- [x] Vincere una partitra
+- [ ] Vincere il campionato
+- [ ] Perdere 4 a 0
