@@ -1,9 +1,12 @@
 # Readme 
-File di istruzioni per il programm
+File di istruzioni per il programma
 ## Passo n 1
 Formattare il PC
 > _Scherzavo eheh_
 
+
+> [!WARNING]
+> Ultime notizie: Tutti i possessori di tastiere colorate sono stati invasi da cuccioli corgi
 
 
 ## Passo n 2
@@ -11,6 +14,7 @@ Formattare il PC
 
 ## Passo n 3
 [Link Text](#Passo-n-1)
+
 
 ## Passo n 4
 
@@ -23,6 +27,7 @@ Formattare il PC
 - [ ] Finire un file README
 - [ ] [#1](https://github.com/RealB33rM4n/testITSpisa/issues/2)
 - [ ] [#2](https://github.com/RealB33rM4n/testITSpisa/issues/3)
+
 
 ## Passo n 6
 
@@ -41,6 +46,7 @@ Formattare il PC
 > [!CAUTION]
 > pericolo.
 
+
 ## Passo n 7
 
 <!-- This content will not appear in the rendered Markdown -->
@@ -54,3 +60,4 @@ require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+
