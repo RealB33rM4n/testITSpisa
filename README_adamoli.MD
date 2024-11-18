@@ -34,6 +34,7 @@ Vediamo se hai ragione
 - [ ] bombolone alla crema
 - [ ] merda merda 
 - [ ] esco di casa
+- [ ] accendo la macchina
 
 
 
