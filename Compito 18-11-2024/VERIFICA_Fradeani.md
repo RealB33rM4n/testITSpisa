@@ -3,12 +3,12 @@
 
 
 
-* Introduction
-* Steps by steps
-* What Will Happen Now?
-* Our Commitment
-* Tables
-* Blocks of code
+* [Introduction](###Introduction)
+* [Steps by steps](Please-Follow-The-Steps)
+* [What Will Happen Now?](What Will Happen Now)
+* [Our Commitment](Our Commitment)
+* [Tables](Tables)
+* [Blocks of code](Blocks of code)
 
 
 ## Reporting Security Issues
@@ -19,7 +19,7 @@
 prova prova prova
 
 
-## Please Follow The Step
+## Please Follow The Steps
 
 #### 1. Do Not Report Security Vulnerabilities
 
@@ -36,7 +36,7 @@ please eccetera eccetera...
  * How you found the vulerabilities...
 
 
-## What Will Happen Next
+## What Will Happen Now
 
 * Non riesco a leggere la proiezione sul muro
 * perchè è troppo lontana
