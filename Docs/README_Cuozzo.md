@@ -66,5 +66,4 @@ Python: `cout<<vivailcanepazzo>>endl;`
 
 
 
-  
- 👌👌👌👌
+69 96 69 96 

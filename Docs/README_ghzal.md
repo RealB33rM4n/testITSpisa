@@ -6,7 +6,7 @@ link[go](../testITSpisa)
 
 
 
-photo :
+photo one piece:
 
 
 ![one piece]()
