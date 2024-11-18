@@ -13,7 +13,7 @@ Un footnote può avere più righe[^2].
 ## Caratteri
 
 **Testo Grassetto**
-*testo corsivo*
+*testo corsivo *
 
 
 ## Comandi
@@ -24,7 +24,8 @@ git add
 git commit
 ```
 
-
+#prova
+Gitfork
 
 ## Github Syntax
 
