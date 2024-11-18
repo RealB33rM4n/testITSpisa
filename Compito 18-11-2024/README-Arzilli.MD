@@ -1,12 +1,12 @@
 ### Table of Contents
 ------------------------------------------------
 
-- Introduction
-- Step by steps
-- What will happen next
-- Our commitment
-- Tables
-- Blocks od code
+- [Introduction](#Introduction)
+- [Step by steps](#Step-by-steps)
+- [What will happen next](#What-will-happen-next)
+- [Our commitment](#Our-commitment)
+- [Tables](#Tables)
+- [Blocks od code](#Blocks-od-code)
 
 ## Reporting Security Issues
 ------------------------------------------------
@@ -51,7 +51,7 @@ Thank you for helping us keep our product and our users safe!
 | left bar | right bar |
 | left baz | right baz |
 
-### Block of Code
+### Block od Code
 -------------------------------------------------
 
 ``` 
