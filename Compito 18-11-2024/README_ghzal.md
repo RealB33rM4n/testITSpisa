@@ -9,12 +9,12 @@
 
 ## Reporting Security Issues
 
-### Introduction
+## Introduction
 
 
   The security od our systems is …
 
-### Please Follow There Steps:
+## Please Follow There Steps:
 
 1. Do not Report any details …
 	- Please do not discolse ant details about the vulnerability in public forums
@@ -24,14 +24,14 @@
 		- Any potential impacts od the bulnerability
 		- How you found the vulnerability, if you'd like to share this
 
-### What Will Happen Next
+## What Will Happen Next
 
 - **Acknowledgement:** We will acknowledge your email in 24h
 - **Investigation:** Our security team will investigate the issue
 - **Communication:** We will keep you informed of our progress
 - **Disclosure:** Once the issue has been resolved, we will woek with you to coordinate the Disclosure od the vulnerability
 
-### Our Commitment
+## Our Commitment
 
 
 We are committed to working with security researchers and the community to make our product safer. we bla bla bla
