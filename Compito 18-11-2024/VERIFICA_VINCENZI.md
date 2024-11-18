@@ -1,7 +1,7 @@
 ### Table of Contets
 
 * [Introduction](#introduction)
-* [Step by steps](#step-by-steps)
+* [Step by steps](#please-follow-these-steps)
 * [What Will Happen Next](#what-will-happen-next)
 * [Our Commitment](#our-commitment)
 * [Tables](#tables)
