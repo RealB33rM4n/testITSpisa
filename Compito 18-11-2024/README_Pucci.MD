@@ -47,7 +47,7 @@ Channels :
 
 A visual representation of the functionality of all HospitalRun modules and their interactions.
 
-[<img width="1658" alt="miro" src="https://user-images.githubusercontent.com/6388707/78055877-7b50ed80-7384-11ea-9e65-602a0f8b9ec9.png">](https://miro.com/app/board/o9J_kv4RtwE=/)
+[<img width="1658" alt="miro" src="https://slyvi-tstorage.fra1.cdn.digitaloceanspaces.com/r198460719304_tml3365830375169_545793529045_172210184782069.png">](https://miro.com/app/board/o9J_kv4RtwE=/)
 
 # Behind HospitalRun
 
