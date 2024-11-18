@@ -5,7 +5,7 @@
 * [What Will Happen Next](#what-will-happen-next)
 * [Our Commitment](#our-commitment)
 * [Tables](#tables)
-* [Blocks of code](#blocks-of-code)
+* [Blocks of code](#block-of-code)
 
 # Reporting Security Issues
 ## Introduction
