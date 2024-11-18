@@ -1,5 +1,4 @@
-### Table of Contents
-------------------------------------------------
+### Table 
 
 - [Introduction](#Introduction)
 - [Step by steps](#Step-by-steps)
@@ -9,15 +8,13 @@
 - [Blocks od code](#Blocks-od-code)
 
 ## Reporting Security Issues
-------------------------------------------------
 
 ### Introduction
-------------------------------------------------
+
 
   The security od our systems is …
 
 ### Please Follow There Steps:
-------------------------------------------------
 
 1. Do not Report any details …
 	- Please do not discolse ant details about the vulnerability in public forums
@@ -28,7 +25,6 @@
 		- How you found the vulnerability, if you'd like to share this
 
 ### What Will Happen Next
-------------------------------------------------
 
 - **Acknowledgement:** We will acknowledge your email in 24h
 - **Investigation:** Our security team will investigate the issue
@@ -36,14 +32,14 @@
 - **Disclosure:** Once the issue has been resolved, we will woek with you to coordinate the Disclosure od the vulnerability
 
 ### Our Commitment
-------------------------------------------------
+
 
 We are committed to working with security researchers and the community to make our product safer. we bla bla bla
 
 Thank you for helping us keep our product and our users safe!
 
 ### Tables
-------------------------------------------------
+
 
 | **Left Columns** | **Right Columns** |
 | :----------- | :------------ |
@@ -52,7 +48,6 @@ Thank you for helping us keep our product and our users safe!
 | left baz | right baz |
 
 ### Block od Code
--------------------------------------------------
 
 ``` 
 parola = input("Scrivi la parola:/n")
