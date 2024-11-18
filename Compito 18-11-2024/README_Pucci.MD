@@ -6,7 +6,7 @@
 - [Project Structure](#project-structure)
 - [Application Infrastructure](#application-infrastructure)
 - [Behind HospitalRun](#behind-hospitalRun)
-- [License](#license)
+
 
 # Staging Area
 
