@@ -3,12 +3,12 @@
 
 
 
-* [Introduction](###Introduction)
-* [Please Follow The Steps](##Please-Follow-The-Steps)
-* [What Will Happen Now?](##What-Will-Happen-Now)
-* [Our Commitment](##Our-Commitment)
-* [Tables](Tables)
-* [Blocks of code](##Blocks-of-code)
+* [Introduction](#Introduction)
+* [Please Follow The Steps](#Please-Follow-The-Steps)
+* [What Will Happen Now?](#What-Will-Happen-Now)
+* [Our Commitment](#Our-Commitment)
+* [Tables](#Tables)
+* [Blocks of code](#Blocks-of-code)
 
 
 ## Reporting Security Issues
