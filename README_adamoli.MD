@@ -33,6 +33,7 @@ Vediamo se hai ragione
 - [ ] caffè del mattino
 - [ ] bombolone alla crema
 - [ ] merda merda 
+- [ ] esco di casa
 
 
 
