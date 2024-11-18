@@ -3,11 +3,11 @@
 ## Indice 📖
 
 > [il mio mese preferito](#Agosto)
-
+>
 > [cose carine](#Curiosità)
-
+>
 > [IMPORTANTE](#Immagine-dimostrativa)
-
+>
 > [BELLAAAAAAAAHHHH!](#BELLAAAAAAAAHHHH)
 
 
@@ -34,6 +34,7 @@
 
 
 
+
 BELLAAAAAAAAAAHHHH
 
 
@@ -47,6 +48,7 @@ BELLAAAAAAAAAAHHHH
 # Dicembre😎
 ## sto facendo una sfida che si chiama dicembre, in pratica devi sopravvivere tutto dicembre
 > DAJE
+
 
 
 
@@ -87,7 +89,7 @@ BELLAAAAAAAAAAHHHH
 
 
 
-# Cuoriosità
+# Curiosità
 
 * gli altri mesi non mi riguardano
 
@@ -109,7 +111,7 @@ BELLAAAAAAAAAAHHHH
 
 
 
-
+BELLAAAAAAAAHHHH
 
 
 
@@ -146,7 +148,7 @@ BELLAAAAAAAAAAHHHH
 # BELLAAAAAAAAHHHH
 ![BELLAAAAAAAAHHHH](https://i.ytimg.com/vi/FYHtV3nf6Sg/hqdefault.jpg)
 
-BELLAAAAAAAAHHHH!!!!
+**BELLAAAAAAAAHHHH!!!!**
 
 
 
