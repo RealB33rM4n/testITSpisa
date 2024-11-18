@@ -9,7 +9,7 @@
 
 # Reporting Security Issues
 ## Introduction
-The ssecurity of our systems is our top priority. If you have discovered a security...
+The security of our systems is our top priority. If you have discovered a security...
 
 ## Please Follow These Steps
 1. Do Not Report Security Vulnerabilities Publicy
