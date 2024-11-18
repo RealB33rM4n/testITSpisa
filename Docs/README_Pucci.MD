@@ -15,7 +15,7 @@ Formattare il PC
 ## Passo n 4
 #Loro Dallinga, noi Castro!!
 ![loro Dallinga, noi Castro](https://www.1000cuorirossoblu.it/wp-content/uploads/2024/09/CASTRO-ESULTANZA-1.jpg)
-![aa](https://image.spreadshirtmedia.net/image-server/v1/products/T1459A842PA4459PT28D327939908W8333H10000/views/1,width=378,height=378,appearanceId=842,backgroundColor=F2F2F2/gesu-freak-gesu-cristo-meme-bibbia-cristiana.jpg)
+
 ## Passo n 5
 
 - [x] Iniziare un file README
