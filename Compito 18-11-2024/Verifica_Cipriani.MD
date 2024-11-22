@@ -1,9 +1,9 @@
 ### Table of Contents
 
 - [Introduction](#Introduction)
-- [Step by steps](#Step-by-steps)
-- [What Will Happen next?](#What-Will-Happen-next?)
-- [Our Commitment](#Our-Commitmen)
+- [Step by steps](#Please-Follow-These-Steps)
+- [What Will Happen next?](#What-Will-Happen-Next?)
+- [Our Commitment](#Our-Commitment)
 - [Tables](#Tables)
 - [Blocks of code](#Blocks-of-code)
 
