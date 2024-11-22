@@ -1,11 +1,11 @@
 ### Table of Contents
 
-- Introduction
-- Step by steps
-- What Will Happen next
-- Our Commitment
-- Tables
-- Blocks of code
+- [Introduction] (#Introduction)
+- [Step by steps] (#Step-by-steps)
+- [What Will Happen next?] (#What-Will-Happen-next?)
+- [Our Commitment] (#Our-Commitmen)
+- [Tables] (#Tables)
+- [Blocks of code] (#Blocks-of-code)
 
 # Reporting Security Issues
 
