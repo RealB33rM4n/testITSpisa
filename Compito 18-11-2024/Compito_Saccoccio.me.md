@@ -25,6 +25,6 @@
 | right bar   | left bar    |
 
 ### Blocks Of Code
-Int var = 1;
-Int var2 = 3;
-Int var3 = var2-var1;
+Int var = 1;<br>
+Int var2 = 3;<br>
+Int var3 = var2-var1;<br>
