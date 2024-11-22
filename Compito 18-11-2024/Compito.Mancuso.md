@@ -42,7 +42,8 @@ Ciò che sto scrivendo è decisamente interessante
 | Content Cell  | Content Cell  |
 
 ### Blocks Of Code
-```<html>
+```
+<html>
       <head>
         def is_even(n)
     if n % 2 == 0
