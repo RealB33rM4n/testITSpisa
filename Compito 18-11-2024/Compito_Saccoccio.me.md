@@ -1,7 +1,7 @@
 ### TABLE OF CONTENTS
 - [Introduction](#Introduction)
-- [Step by step](#Step-by-step)
-- [What will happen next?](#What-will-happen-next?)
+- [Step by step](#Step-By-Step)
+- [What will happen next?](#What-Will-Happen-Next?)
 - [Our Commitment](#Our-Commitment)
 - [Tables](#Tables)
 - [Blocks Of Code](#Blocks-Of-Code)
