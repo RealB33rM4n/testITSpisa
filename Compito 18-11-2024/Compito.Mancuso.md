@@ -5,6 +5,8 @@
 + [Our Commitment](#our-commitment)
 + [Tables](#tables)
 + [Blocks Of Code](#blocks-of-code)
+
+  <!-- Vogliamo più tende -->
   
 ## Reporting Security Issues
 
