@@ -2,7 +2,7 @@
 
 - [Introduction](#Introduction)
 - [Step by steps](#Please-Follow-These-Steps)
-- [What Will Happen next?](#What-Will-Happen-Next?)
+- [What Will Happen next?](#What-Will-Happen-Next)
 - [Our Commitment](#Our-Commitment)
 - [Tables](#Tables)
 - [Blocks of code](#Blocks-of-code)
@@ -26,7 +26,7 @@ The security....
          - 
          - 
 
-### What Will Happen Next?
+### What Will Happen Next
 
 - 1
 - 2 
