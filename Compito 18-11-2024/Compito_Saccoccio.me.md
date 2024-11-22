@@ -1,10 +1,10 @@
 ### TABLE OF CONTENTS
-- Introduction
-- Step by step
-- What will happen next?
-- Our Commitment
-- Tables
-- Blocks Of Code
+- [Introduction](#Introduction)
+- [Step by step](#Step-by-step)
+- [What will happen next?](#What-will-happen-next?)
+- [Our Commitment](#Our-Commitment)
+- [Tables](#Tables)
+- [Blocks Of Code](#Blocks-Of-Code)
 ### Introduction
     The security...
 ### Step By Step
