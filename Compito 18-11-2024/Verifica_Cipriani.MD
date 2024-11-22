@@ -1,6 +1,6 @@
 ### Table of Contents
 
-- [Introduction] (#Introduction)
+- [Introduction](#Introduction)
 - [Step by steps] (#Step-by-steps)
 - [What Will Happen next?] (#What-Will-Happen-next?)
 - [Our Commitment] (#Our-Commitmen)
